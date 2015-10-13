@@ -1,0 +1,453 @@
+#EXTM3U
+#EXTINF:-1,RCN Televisión de Colombia
+http://q.gs/9830047/todokodim3u8
+#EXTINF:-1,Caracol
+http://q.gs/9830047/caracoltodokodim3u8
+#EXTINF:-1,CANAL UNO COLOMBIA
+http://q.gs/9830047/canalunoltodokodi
+#EXTINF:-1,Telecafe
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
+#EXTINF:-1,TELEANTIOQUIA HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
+#EXTINF:-1,Telemedellin
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
+#EXTINF:-1,CosmoVision
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+#EXTINF:-1,CANAL CAPITAL
+http://q.gs/9830047/canalcapitalltodokodi
+#EXTINF:-1,CANAL U
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
+#EXTINF:-1,TV AGRO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8?
+#EXTINF:-1,Cable Noticias
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
+#EXTINF:-1,El Tiempo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
+#EXTINF:-1,UNE TV Manizales
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
+#EXTINF:-1,UNE TV CARIBE
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8?
+#EXTINF:-1,UNE TV ARMENIA
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEA/tu1_1.m3u8?
+#EXTINF:-1,TELE VIDA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8?
+#EXTINF:-1,TRENDY MUSICA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
+#EXTINF:-1,CANAL ANTIESTREST
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
+#EXTINF:-1,CANTINAZO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
+#EXTINF:-1,LIFEDESING
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
+#EXTINF:-1,MIMUSICA HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+#EXTINF:-1,TELE AMIGA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8?
+#EXTINF:-1,TIGO MUSIC
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
+#EXTINF:-1,CANAL ONCE URUGUAY
+http://q.gs/9830047/onceuuruguaytodokodim3u8
+#EXTINF:-1,TV PUBLICA
+http://q.gs/9830047/tvpublicaytodokodim3u8
+#EXTINF:-1,EL TRECE HD Argentina
+rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
+#EXTINF:-1,EL TRECE HD
+http://200.76.77.230/LIVE/H01/CANAL13/PROFILE03.m3u8?
+#EXTINF:-1,CANAL 13
+rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
+#EXTINF:-1,WAPA - Puerto Rico
+rtmp://demo.iblups.com/demo playpath=SoeNe8hdA0 swfUrl=http://iblups.com/playertvlive123456789.swf?config=configplayer%2Ephp%3Fid%3D19967&autostart=true live=1 pageUrl=http://iblups.com/e_WapaPRace-498-310</link>
+#EXTINF:-1,OCHO TV
+http://q.gs/9830047/ochotvtodokodim3u8
+#EXTINF:-1,tve
+http://q.gs/9830047/tveestodokodim3u8
+#EXTINF:-1,TeleSuR
+http://q.gs/9830047/telesurtodokodim3u8
+#EXTINF:-1,Foro TV
+http://200.76.77.230/LIVE/H01/CANAL104/PROFILE03.m3u8?
+#EXTINF:-1,Canal De Las Estrellas
+http://q.gs/9830047/canalestrellastodokodim3u8
+#EXTINF:-1,Canal De Las Estrellas
+http://200.76.77.230/LIVE/H01/CANAL102/PROFILE03.m3u8?
+#EXTINF:-1,Canal 7
+http://q.gs/9830047/canal7todokodim3u8
+#EXTINF:-1,Unimas
+http://q.gs/9830047/unimastodokodim3u8
+#EXTINF:-1,Unicable
+http://200.76.77.230/LIVE/H01/CANAL218/PROFILE03.m3u8?
+#EXTINF:-1,TELEMUNDO INTERNACIONAL
+http://q.gs/9830047/telemundointerltodokodi
+#EXTINF:-1,Telemundo
+http://q.gs/9830047/telemundotodokodim3u8
+#EXTINF:-1,Telemundo
+http://q.gs/9830047/telemundoltodokodi
+#EXTINF:-1,UNIVISION
+http://q.gs/9830047/univisionltodokodi
+#EXTINF:-1,TEVEO MIAMI
+http://q.gs/9830047/tveomiamitodokodim3u8
+#EXTINF:-1,ONCE TV
+http://200.76.77.230/LIVE/H01/CANAL111/PROFILE03.m3u8?
+#EXTINF:-1,CADENA 3
+http://q.gs/9830047/cadena3todokodim3u8
+#EXTINF:-1,52 MX
+http://q.gs/9830047/52mxtodokodim3u8
+#EXTINF:-1,MULTIMEDIOS TV
+http://200.76.77.230/LIVE/H01/CANAL167/PROFILE03.m3u8?
+#EXTINF:-1,TeleFórmula
+http://200.76.77.230/LIVE/H01/CANAL161/PROFILE03.m3u8?
+#EXTINF:-1,AZTECA NOTICIAS
+http://q.gs/9830047/aztecanoticiastodokodim3u8
+#EXTINF:-1,INFO 7 NL
+http://q.gs/9830047/info7todokodim3u8
+#EXTINF:-1,Telemar Mexico
+http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8?
+#EXTINF:-1,CB Televisión Michoacán
+http://hd.worldkast.com/8512/smil:8512.smil/playlist.m3u8
+#EXTINF:-1,Telemax Mexico
+http://enhd.co:1935/ilive/ilive/playlist.m3u8?
+#EXTINF:-1,Trecevisión Yucatan
+http://74.222.3.185:1935/live/ngrp:trecevision_all/chunklist_w1676078199_b950272.m3u8
+#EXTINF:-1,TDT Tlaxcala
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8?
+#EXTINF:-1,Quince TV Zacatecas México
+http://live.zuperdns.net:1935/zuperhosting.live.grupob.canal15zacatecas/livestream/playlist.m3u8
+#EXTINF:-1,KW TV México
+http://wpc.845d.edgecastcdn.net/hls-live/20845D/Live/kwlive/livetv,364,664,964,1264,.m3u8?hc_location=ufi
+#EXTINF:-1,TV 4 Guanajuato
+http://iphone-streaming.ustream.tv/uhls/4157836/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,CORtv Oaxaca México
+http://iphone-streaming.ustream.tv/ustreamVideo/20366971/streams/live/playlist.m3u8
+#EXTINF:-1,TV Independencia Hidalgo México
+http://iphone-streaming.ustream.tv/ustreamVideo/12143149/streams/live/playlist.m3u8
+#EXTINF:-1,Trecevisión Yucatan
+http://74.222.3.185:1935/live/ngrp:trecevision_all/chunklist_w1676078199_b950272.m3u8
+#EXTINF:-1,Antena3
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?time=1439881142212
+#EXTINF:-1 $ExtFilter="españa",la sexta
+http://q.gs/9830047/lasextatodokodim3u8
+#EXTINF:-1,LATINA PERU
+http://q.gs/9830047/latinatodokodim3u8
+#EXTINF:-1,PANAMERICANA
+http://q.gs/9830047/panamericanatodokodim3u8
+#EXTINF:-1,RBC PERU
+http://q.gs/9830047/rbctodokodim3u8
+#EXTINF:-1,ATV
+http://q.gs/9830047/atvtodokodim3u8
+#EXTINF:-1,ATV +
+rtmp://d91.iblups.com/atvmas playpath=hseZYl4d9H swfUrl=http://atv.iblups.com/playertvlive123456789.swf?config=configplayer%2Ephp%3Fid%3Datvmas&autostart=true live=1 pageUrl=http://atv.iblups.com/atvmas.php?w=630&h=360
+#EXTINF:-1,Canal Musica Peru
+http://q.gs/9830047/musicatodokodim3u8
+#EXTINF:-1,MEGA
+http://q.gs/9830047/megatvtodokodim3u8
+#EXTINF:-1,RED-HD
+http://q.gs/9830047/redhdtodokodim3u8
+#EXTINF:-1,TVNHD
+http://q.gs/9830047/tvnhdtodokodim3u8
+#EXTINF:-1,CHVHD
+http://q.gs/9830047/chvhdtodokodim3u8
+#EXTINF:-1,Trecevisión Guatemala
+http://72.46.226.61/live01/canal131/playlist.m3u8
+#EXTINF:-1,Guate Visión
+http://bravo967.sysvirtuales.com/live/stream1.sdp/playlist.m3u8
+#EXTINF:-1,Canal 13 HD
+http://q.gs/9830047/canal13hdtodokodim3u8
+#EXTINF:-1,UNO MAS UNO TV
+http://200.76.77.230/LIVE/H01/CANAL145/PROFILE03.m3u8?
+#EXTINF:-1,TV MAS
+http://38.104.228.230:1938/info7/info7_512/chunklist_w521409461.m3u8
+#EXTINF:-1,Canal 5
+http://200.76.77.230/LIVE/H01/CANAL105/PROFILE03.m3u8?
+#EXTINF:-1,Canal 5
+http://q.gs/9830047/canal5todokodim3u8
+#EXTINF:-1,Canal 5
+http://q.gs/9830047/canal5tvtodokodim3u8
+#EXTINF:-1,MILENIO TV
+http://q.gs/9830047/mileniotvltodokodim3u8
+#EXTINF:-1,Azteca 7
+http://200.76.77.230/LIVE/H01/CANAL107/PROFILE03.m3u8?
+#EXTINF:-1,Azteca 7
+http://q.gs/9830047/azteca7todokodim3u8
+#EXTINF:-1,Azteca 7
+http://q.gs/9830047/azteca7tvtodokodim3u8
+#EXTINF:-1,Gala TV
+http://200.76.77.230/LIVE/H01/CANAL109/PROFILE03.m3u8?
+#EXTINF:-1,AZTECA 13
+http://q.gs/9830047/azteca13todokodim3u8
+#EXTINF:-1,PROYECTO 40
+http://200.76.77.230/LIVE/H01/CANAL140/PROFILE03.m3u8?
+#EXTINF:-1,Natgeo
+http://200.76.77.230/LIVE/H01/CANAL377/PROFILE03.m3u8?
+#EXTINF:-1,Natgeo
+http://q.gs/9830047/natgeoctodokodim3u8
+#EXTINF:-1,Natgeo Wild
+http://200.76.77.230/LIVE/H01/CANAL355/PROFILE03.m3u8?
+#EXTINF:-1,Animal Planet
+http://200.76.77.230/LIVE/H01/CANAL373/PROFILE03.m3u8?
+#EXTINF:-1,El gourmet
+http://200.76.77.230/LIVE/H01/CANAL268/PROFILE03.m3u8?
+#EXTINF:-1,LIFE TIME
+http://200.76.77.230/LIVE/H01/CANAL379/PROFILE03.m3u8?
+#EXTINF:-1,History
+http://200.76.77.230/LIVE/H01/CANAL353/PROFILE03.m3u8?
+#EXTINF:-1,History
+http://q.gs/9830047/historytodokodim3u8
+#EXTINF:-1,History
+http://q.gs/9830047/historytvtodokodim3u8
+#EXTINF:-1,History
+http://q.gs/9830047/historyhdtodokodim3u8
+#EXTINF:-1,Discovery
+http://200.76.77.230/LIVE/H01/CANAL371/PROFILE03.m3u8?
+#EXTINF:-1,Discovery Channel Español (USA)
+http://q.gs/9830047/discoveryestodokodim3u8
+#EXTINF:-1,DISCOVERY WORLD
+http://q.gs/9830047/discoveryworldtodokodim3u8
+#EXTINF:-1,Discovery Theather
+http://200.76.77.230/LIVE/H01/CANAL351/PROFILE03.m3u8?
+#EXTINF:-1,Discovery Civilization
+http://200.76.77.230/LIVE/H01/CANAL382/PROFILE03.m3u8?
+#EXTINF:-1,Discovery Science
+http://200.76.77.230/LIVE/H01/CANAL381/PROFILE03.m3u8?
+#EXTINF:-1,discovery turbo
+http://200.76.77.230/LIVE/H01/CANAL383/PROFILE03.m3u8?
+#EXTINF:-1,DISCOVERY H&H
+http://200.76.77.230/LIVE/H01/CANAL374/PROFILE03.m3u8?
+#EXTINF:-1,DISCOVERY ID
+http://200.76.77.230/LIVE/H01/CANAL263/PROFILE02.m3u8?
+#EXTINF:-1,TLC
+http://200.76.77.230/LIVE/H01/CANAL356/PROFILE03.m3u8?
+#EXTINF:-1,WOBI T-K
+http://200.76.77.230/LIVE/H01/CANAL387/PROFILE03.m3u8?
+#EXTINF:-1,DISCOVERY WORLD
+#EXTINF:-1,FOX HD
+http://200.76.77.230/LIVE/H01/CANAL201/PROFILE03.m3u8?
+#EXTINF:-1,FOX SD
+#EXTINF:-1,A&E
+http://200.76.77.230/LIVE/H01/CANAL211/PROFILE03.m3u8?
+#EXTINF:-1,Universal
+http://200.76.77.230/LIVE/H01/CANAL492/PROFILE03.m3u8?
+#EXTINF:-1,Sony
+http://200.76.77.230/LIVE/H01/CANAL203/PROFILE03.m3u8?
+#EXTINF:-1,TNT
+http://200.76.77.230/LIVE/H01/CANAL435/PROFILE03.m3u8?
+#EXTINF:-1,TNT
+http://200.76.77.230/LIVE/H01/CANAL482/PROFILE03.m3u8?
+#EXTINF:-1,Warner
+http://200.76.77.230/LIVE/H01/CANAL205/PROFILE03.m3u8?
+#EXTINF:-1,AXN
+http://200.76.77.230/LIVE/H01/CANAL213/PROFILE03.m3u8?
+#EXTINF:-1,E!
+http://200.76.77.230/LIVE/H01/CANAL255/PROFILE03.m3u8?
+#EXTINF:-1,FX
+http://200.76.77.230/LIVE/H01/CANAL209/PROFILE03.m3u8?
+#EXTINF:-1,FX
+http://200.76.77.230/LIVE/H01/CANAL258/PROFILE03.m3u8?
+#EXTINF:-1,UNICABLE
+http://200.76.77.230/LIVE/H01/CANAL218/PROFILE03.m3u8?
+#EXTINF:-1,UNICABLE
+http://q.gs/9830047/unicableltodokodim3u8
+#EXTINF:-1,AZCORAZON
+http://200.76.77.230/LIVE/H01/CANAL45/PROFILE02.m3u8?
+#EXTINF:-1,TLNOVELAS
+http://200.76.77.230/LIVE/H01/CANAL275/PROFILE03.m3u8?
+#EXTINF:-1,DISTRITO COMEDIA
+http://200.76.77.230/LIVE/H01/CANAL272/PROFILE03.m3u8?
+#EXTINF:-1,COMEDY CENTRAL
+http://200.76.77.230/LIVE/H01/CANAL217/PROFILE03.m3u8?
+#EXTINF:-1,ISAT
+http://q.gs/9830047/isatltodokodim3u8
+#EXTINF:-1,AMC
+http://200.76.77.230/LIVE/H01/CANAL444/PROFILE03.m3u8?
+#EXTINF:-1,SYFY
+http://200.76.77.230/LIVE/H01/CANAL257/PROFILE03.m3u8?
+#EXTINF:-1,BBC Entertainment
+http://200.76.77.230/LIVE/H01/CANAL253/PROFILE03.m3u8?
+#EXTINF:-1,FOX LIFE
+http://200.76.77.230/LIVE/H01/CANAL271/PROFILE03.m3u8?
+#EXTINF:-1,HOLA TV
+http://200.76.77.230/LIVE/H01/CANAL219/PROFILE03.m3u8?
+#EXTINF:-1,Casa Club
+http://q.gs/9830047/casaclubdokodim3u8
+#EXTINF:-1,TNT SERIES
+http://200.76.77.230/LIVE/H01/CANAL266/PROFILE03.m3u8?
+#EXTINF:-1,GLITZ
+http://200.76.77.230/LIVE/H01/CANAL270/PROFILE03.m3u8?
+#EXTINF:-1,TRU TV
+http://200.76.77.230/LIVE/H01/CANAL215/PROFILE03.m3u8?
+#EXTINF:-1,TBS
+http://200.76.77.230/LIVE/H01/CANAL273/PROFILE03.m3u8?
+#EXTINF:-1,DRAGON BALL Z
+rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D8341 live=1 pageUrl=http://iblups.com/e_richenginner-570-330
+#EXTINF:-1,Anime en Español
+http://q.gs/9830047/animeespaoltodokodim3u8
+#EXTINF:-1,Tiin
+http://200.76.77.230/LIVE/H01/CANAL325/PROFILE03.m3u8?
+#EXTINF:-1,DYSNEY XD
+http://200.76.77.230/LIVE/H01/CANAL322/PROFILE03.m3u8?
+#EXTINF:-1,Disney Channel (SUR)
+http://q.gs/9830047/dysneytodokodim3u8
+#EXTINF:-1,DYSNEY (NORTE)
+http://200.76.77.230/LIVE/H01/CANAL312/PROFILE03.m3u8?
+#EXTINF:-1,CARTOON NETWORK
+http://200.76.77.230/LIVE/H01/CANAL320/PROFILE03.m3u8?
+#EXTINF:-1,NICK(SUR)
+http://q.gs/9830047/nickelodeontodokodim3u8
+#EXTINF:-1,NICK SD
+http://200.76.77.230/LIVE/H01/CANAL317/PROFILE03.m3u8?
+#EXTINF:-1,Nick HD
+http://200.76.77.230/LIVE/H01/CANAL315/PROFILE03.m3u8?
+#EXTINF:-1,Nick TOONS
+http://200.76.77.230/LIVE/H01/CANAL314/PROFILE03.m3u8?
+#EXTINF:-1,DISCOVERY KIDS
+http://200.76.77.230/LIVE/H01/CANAL303/PROFILE03.m3u8?
+#EXTINF:-1,BOOMERANG
+http://200.76.77.230/LIVE/H01/CANAL324/PROFILE03.m3u8?
+#EXTINF:-1,DISNEY JR
+http://200.76.77.230/LIVE/H01/CANAL308/PROFILE03.m3u8?
+#EXTINF:-1,NICK JR
+http://200.76.77.230/LIVE/H01/CANAL310/PROFILE03.m3u8?
+#EXTINF:-1,TOONCAST
+http://200.76.77.230/LIVE/H01/CANAL328/PROFILE03.m3u8?
+#EXTINF:-1,CMD PERU
+http://q.gs/9830047/cmdtodokodim3u8
+#EXTINF:-1,GOLTV SUR
+http://q.gs/9830047/goltvsurtodokodim3u8
+#EXTINF:-1,Winsport COLOMBIA
+http://futbol.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8?
+#EXTINF:-1,Motors TV
+http://q.gs/9830047/motorstvtodokodim3u8
+#EXTINF:-1,CDN-SportsMax
+http://q.gs/9830047/cdntodokodim3u8
+#EXTINF:-1,Real Madrid TV
+http://q.gs/9830047/realmedridtvtodokodim3u8
+#EXTINF:-1,SEVILLAFC
+http://q.gs/9830047/sevillafctodokodim3u8
+#EXTINF:-1,HMX
+http://q.gs/9830047/hmxtodokodim3u8
+#EXTINF:-1,El Garaje
+http://200.76.77.230/LIVE/H01/CANAL269/PROFILE02.m3u8?
+#EXTINF:-1,AYM
+http://200.76.77.230/LIVE/H01/CANAL576/PROFILE02.m3u8?
+#EXTINF:-1,ESPN
+http://200.76.77.230/LIVE/H01/CANAL516/PROFILE03.m3u8?
+#EXTINF:-1,ESPN 2
+http://200.76.77.230/LIVE/H01/CANAL561/PROFILE03.m3u8?
+#EXTINF:-1,ESPN 3
+http://200.76.77.230/LIVE/H01/CANAL520/PROFILE03.m3u8?
+#EXTINF:-1,FOXSPORT
+http://200.76.77.230/LIVE/H01/CANAL522/PROFILE03.m3u8?
+#EXTINF:-1,Fox Sports SUR
+http://q.gs/9830047/foxsportsurtodokodim3u8
+#EXTINF:-1,FOXSPORT 2
+http://200.76.77.230/LIVE/H01/CANAL527/PROFILE03.m3u8?
+#EXTINF:-1,UFC 1
+http://q.gs/9830047/ufctodokodim3u8
+#EXTINF:-1,PLANETA FUTBOL
+http://108.168.206.90:1935/cdnsm/cdnsm/enlacesiptv.m3u8
+#EXTINF:-1,TYC SPORT
+http://q.gs/9830047/tyctodokodim3u8
+#EXTINF:-1,STUDIO UNIVERSAL
+http://200.76.77.230/LIVE/H01/CANAL492/PROFILE03.m3u8?
+#EXTINF:-1,GOLDEN HD
+http://200.76.77.230/LIVE/H01/CANAL436/PROFILE03.m3u8?
+#EXTINF:-1,THE FILM ZONE
+http://200.76.77.230/LIVE/H01/CANAL440/PROFILE03.m3u8?
+#EXTINF:-1,GOLDEN EDGE
+http://201.161.59.7/goldenedge.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,GOLDEN EDGE
+http://200.76.77.230/LIVE/H01/CANAL484/PROFILE03.m3u8?
+#EXTINF:-1,TCM
+http://200.76.77.230/LIVE/H01/CANAL496/PROFILE03.m3u8?
+#EXTINF:-1,MULTICINEMA
+http://q.gs/9830047/multicinematodokodim3u8
+#EXTINF:-1,DPELICULA
+http://200.76.77.230/LIVE/H01/CANAL442/PROFILE03.m3u8?
+#EXTINF:-1,Ultra Cine HD
+http://q.gs/9830047/ultracinetodokodim3u8
+#EXTINF:-1,Ultra Cine
+http://q.gs/9830047/ultracinehdtodokodim3u8
+#EXTINF:-1,CINELATINO
+http://q.gs/9830047/cinelatinotodokodim3u8
+#EXTINF:-1,SPACE
+http://200.76.77.230/LIVE/H01/CANAL445/PROFILE03.m3u8?
+#EXTINF:-1,SPACE
+http://q.gs/9830047/spaceltodokodim3u8
+#EXTINF:-1,CINECANAL
+http://200.76.77.230/LIVE/H01/CANAL480/PROFILE03.m3u8?
+#EXTINF:-1,CINECANAL HD
+http://200.76.77.230/LIVE/H01/CANAL430/PROFILE03.m3u8?
+#EXTINF:-1,CINEMAX
+http://200.76.77.230/LIVE/H01/CANAL481/PROFILE03.m3u8?
+#EXTINF:-1,DHE
+http://q.gs/9830047/dhetodokodim3u8
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://q.gs/9830047/paramounttodokodim3u8
+#EXTINF:-1,Peliculas 24/7
+http://q.gs/9830047/peliculas24todokodim3u8
+#EXTINF:-1,FOX 1 ESTE
+http://200.76.77.230/LIVE/H01/CANAL415/PROFILE03.m3u8?
+#EXTINF:-1,FOX MOVIES
+http://200.76.77.230/LIVE/H01/CANAL417/PROFILE03.m3u8?
+#EXTINF:-1,FOX FAMILY
+http://200.76.77.230/LIVE/H01/CANAL475/PROFILE03.m3u8?
+#EXTINF:-1,FOX CLASSICS
+http://200.76.77.230/LIVE/H01/CANAL424/PROFILE03.m3u8?
+#EXTINF:-1,FOX CINEMA
+http://200.76.77.230/LIVE/H01/CANAL421/PROFILE03.m3u8?
+#EXTINF:-1,MTV LIVE
+http://200.76.77.230/LIVE/H01/CANAL701/PROFILE03.m3u8?
+#EXTINF:-1,MTV
+http://200.76.77.230/LIVE/H01/CANAL726/PROFILE03.m3u8?
+#EXTINF:-1,MTV HITS
+http://200.76.77.230/LIVE/H01/CANAL727/PROFILE03.m3u8?
+#EXTINF:-1,MTV ROCKS
+http://q.gs/9830047/mtvrocktodokodim3u8
+#EXTINF:-1,VH1
+http://200.76.77.230/LIVE/H01/CANAL703/PROFILE03.m3u8?
+#EXTINF:-1,VH1 CLASSICS EUROPA
+http://200.76.77.230/LIVE/H01/CANAL728/PROFILE03.m3u8?
+#EXTINF:-1,TELEHIT
+http://200.76.77.230/LIVE/H01/CANAL702/PROFILE03.m3u8?
+#EXTINF:-1,Kiss TV
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:-1,BANDAMAX
+http://q.gs/9830047/bandamaxtodokodim3u8
+#EXTINF:-1,A-ONE
+http://q.gs/9830047/aonetodokodim3u8
+#EXTINF:-1,VEVO MUSIC
+http://q.gs/9830047/vevo1todokodim3u8
+#EXTINF:-1,VEVO MUSIC
+http://q.gs/9830047/vevo2todokodim3u8
+#EXTINF:-1,VEVO MUSIC
+http://q.gs/9830047/vevo3todokodim3u8
+#EXTINF:-1,Q Musica
+mms://200.42.92.6:1755/qmusica
+#EXTINF:-1,RITMOSON LATINO
+http://q.gs/9830047/ritmosontodokodim3u8
+#EXTINF:-1,TELE UNO COSTA RICA
+http://q.gs/9830047/teleunoticotodokodi
+#EXTINF:-1,CANAL 13 COSTA RICA
+http://q.gs/9830047/canal13cotodokodi
+#EXTINF:-1,Cantinflas
+http://192.240.113.42:1935/live/canal037.stream/playlist.m3u8?username=.agustin&password=123
+#EXTINF:-1,Pedro Infante
+http://192.240.113.42:1935/live/canal038.stream/playlist.m3u8?username=.agustin&password=123
+#EXTINF:-1,Baby Einstein
+http://192.240.113.42:1935/live/canal015.stream/playlist.m3u8?username=.agustin&password=123
+#EXTINF:-1,La Ninera
+http://192.240.113.42:1935/live/canal014.stream/playlist.m3u8?username=.agustin&password=123
+#EXTINF:-1,Don Gato
+http://192.240.113.42:1935/live/canal031.stream/playlist.m3u8?username=.agustin&password=123
+#EXTINF:-1,Derbez En Cuando
+http://192.240.113.42:1935/live/canal024.stream/playlist.m3u8?username=.agustin&password=123
+#EXTINF:-1,Familia Moderna
+http://192.240.113.42:1935/live/canal035.stream/playlist.m3u8?username=.agustin&password=123
+#EXTINF:-1,La Familia Peluche
+http://192.240.113.42:1935/live/canal025.stream/playlist.m3u8?username=.agustin&password=123
+#EXTINF:-1,Futurama
+http://192.240.113.42:1935/live/canal026.stream/playlist.m3u8?username=.agustin&password=123
+#EXTINF:-1,Avengers
+http://192.240.113.42:1935/live/canal028.stream/playlist.m3u8?username=.agustin&password=123
+#EXTINF:-1,South Park
+http://192.240.113.42:1935/live/canal029.stream/playlist.m3u8?username=.agustin&password=123
+#EXTINF:-1,2 Hombres Y Medio
+http://192.240.113.42:1935/live/canal027.stream/playlist.m3u8?username=.agustin&password=123
